@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Utibeabasi Solomon also called marvelous</h1>
+<h1 align="center">Hello 👋, I'm Utibeabasi Solomon</h1>
 <h3 align="center">A passionate ,hardworking and dedicated backend developer and also a HNG11 finalist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marveldo&label=Profile%20views&color=0e75b6&style=flat" alt="marveldo" /> </p>

@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Utibeabasi Solomon</h1>
 <h3 align="center">A passionate ,hardworking and dedicated backend developer and also a HNG11 finalist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marveldo&label=Profile%20views&color=0e75b6&style=flat" alt="marveldo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marveldo&label=Profile%20views&color=0e75b6&style=flat" alt="marveldo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marveldo" alt="marveldo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marveldo" alt="marveldo" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/web_structurex" target="blank"><img src="https://img.shields.io/twitter/follow/web_structurex?logo=twitter&style=for-the-badge" alt="web_structurex" /></a> </p>
 

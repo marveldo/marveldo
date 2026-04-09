@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **utibesolomon6@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1y6dHlwnMwbfd7_j0lCjW6YKKUvGHQOXsHAamxWhgH0c/edit?usp=sharing](https://docs.google.com/document/d/1y6dHlwnMwbfd7_j0lCjW6YKKUvGHQOXsHAamxWhgH0c/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1y6dHlwnMwbfd7_j0lCjW6YKKUvGHQOXsHAamxWhgH0c/edit?usp=sharing](https://docs.google.com/document/d/1uFEgT4VxD78AHpUZz97ex4CvodGHReQw_fovCGI3o60/edit?usp=sharing)
 
 - ⚡ Fun fact **I think i have a good sense of humor and get along with people well**
 
